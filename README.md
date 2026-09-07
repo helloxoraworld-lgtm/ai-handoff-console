@@ -27,6 +27,6 @@ pwsh -NoProfile -File ./console-demo.ps1 -InboxRoot ./sample -Snapshot
 
 ## 無料試用と回答
 
-[試用ZIPをダウンロード](https://github.com/helloxoraworld-lgtm/ai-handoff-console/releases/latest) → 展開してStart.cmd → Vで全文確認、Nで架空メッセージを作成 → [感想・不具合を回答](https://github.com/helloxoraworld-lgtm/ai-handoff-console/issues/new?template=feedback.md)。回答にはGitHubログインが必要です。Issueは公開されるため、個人情報や実際の仕事の会話は投稿しないでください。
+[試用ZIPをダウンロード](https://github.com/helloxoraworld-lgtm/ai-handoff-console/releases/tag/v0.1.0-demo) → 展開してStart.cmd → Vで全文確認、Nで架空メッセージを作成 → [感想・不具合を回答](https://github.com/helloxoraworld-lgtm/ai-handoff-console/issues/new?template=feedback.md)。回答にはGitHubログインが必要です。Issueは公開されるため、個人情報や実際の仕事の会話は投稿しないでください。
 
 販売価格は未設定です。この無料版の目的は操作性の確認であり、自動AI会話の検証ではありません。翌日の再利用は希望と実績を分けて回答してください。
